@@ -4,4 +4,4 @@
 
 ## imagem do game
 
-<img src="utils/layout-game" alt="My game"/>
+<img src="utils/layout-jogo-velha.png" alt="My game"/>
